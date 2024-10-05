@@ -1,0 +1,33 @@
+.infoBox
+{
+    background-color: white;
+    border: 3px solid transparent;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.postContent > img
+{
+    display: block;
+    width: 100%;
+}
+
+.postContent
+{
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.bottomBox
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color:lightblue;
+}
+
+.grayP
+{
+    background-color: #d0d0d0;
+    margin-bottom: 20px;
+}
